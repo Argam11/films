@@ -1,0 +1,31 @@
+.div_style {
+  width: 100%;
+  height: 60px;
+  background-color: #272727;
+  position: absolute;
+  margin-top: 65px;
+  z-index: 999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+}
+
+.input_style {
+  width: 600px;
+  height: 45px;
+  background-color: #004242;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  padding: 0 20px;
+}
+
+.input_style::placeholder {
+  color: silver;
+  font-size: 16px;
+  padding: 30px;
+  font-family: "Roboto", sans-serif;
+}

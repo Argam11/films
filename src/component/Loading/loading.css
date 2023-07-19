@@ -1,0 +1,14 @@
+.example {
+    background: rgba(0, 0, 0, 0.05);
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .example .ant-spin-dot {
+    font-size: 100px;
+  }

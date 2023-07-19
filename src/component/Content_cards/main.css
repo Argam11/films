@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  }
+
+  .main{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px 30px 0 30px;
+  }
+  .card_img{
+    width: 180px;
+    height: 250px;
+    border-radius: 10px;
+  }
+  .card{
+    margin:7px;
+    display: inline-block;
+  }
+  .card_title{
+    font-style: italic;
+    font-size: 16px;
+  }
+
+  .card_title2{
+    font-size: 13px;
+    font-style: italic;
+  }
+
+  .title_main{
+    margin: 50px 0 0 100px;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+  }

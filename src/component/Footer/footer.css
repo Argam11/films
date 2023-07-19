@@ -1,0 +1,58 @@
+.desc_films{
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.films_desc_main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.desc_title{
+    max-width: 979px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+}
+.footer_back{
+ display: flex;
+ justify-content: center;
+ margin-top: 30px;
+}
+.foot_style{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(64, 58, 58);
+}
+.main_icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+.main_title{
+    display: flex;
+   justify-content:center;
+   margin-top: 40px;
+}
+.colaps{
+    width: 85%;
+    height: 2px;
+    background-color: black;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.descript_title{
+    font-family: 'Poppins', sans-serif;
+    color:#c2c2c2;
+}
+.main_last{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+     padding: 0 100px 0 100px ;
+}
+
+.descript_title2{
+    font-family: 'Poppins', sans-serif;
+    color:#c2c2c2;
+    max-width: 500px;
+}
